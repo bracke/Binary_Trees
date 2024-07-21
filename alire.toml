@@ -9,6 +9,13 @@ licenses = "BSD-3-Clause"
 website = "https://github.com/bracke/Binary_Trees"
 tags = ["binarytrees", "trees", "noaccess"]
 
+long-description = """
+# Binary_Trees
+Ordered binary trees implemented without access types
+
+Demonstration of a technique to be presented at the Ada Developers Workshop of the 2024 Ada-Europe conference
+"""
+
 [build-switches]
 "*".style_checks = "No"
 "*".ada_version = "Ada12"
